@@ -1,0 +1,7 @@
+@use 'config/reset';
+@use 'config/colors';
+@use 'sections/products';
+
+body{
+    background-color: colors.$backgroundColor;
+}
